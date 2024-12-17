@@ -1,7 +1,7 @@
 # Janaína Muniz
 **'Cientista de Dados'**
 
-Me chamo Janaína, tenho 27 anos e sou natural de Teresina, Piauí. Sou barachel em estatística pela Universidade Federal do Piauí e pós graduada em ciência de dados com ênfase em mercado financeiro pela XP Educação.
+Meu nome é Janaína, tenho 27 anos e sou natural de Teresina, Piauí. Sou barachel em estatística pela Universidade Federal do Piauí e pós graduada em ciência de dados com ênfase em mercado financeiro pela XP Educação.
 
 
    <p align="left">
